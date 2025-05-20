@@ -18,3 +18,4 @@ Technologies Used = : Frontend: React.js
                        # Others (Dainik Bhaskar, Jagran, etc.)
                     Local Storage: For persistent task management
                 
+Link to video explaination = https://1drv.ms/v/c/bd67dea8999f846f/EbIhnHYDThFGk31mPR6fX_oBd7fIVjmldSup85mZxi4zsQ?e=mbRrCI
