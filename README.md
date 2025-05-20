@@ -19,3 +19,4 @@ Technologies Used = : Frontend: React.js
                     Local Storage: For persistent task management
                 
 Link to video explaination = https://1drv.ms/v/c/bd67dea8999f846f/EbIhnHYDThFGk31mPR6fX_oBd7fIVjmldSup85mZxi4zsQ?e=mbRrCI
+steps to run = run with replit agent
